@@ -1,38 +1,46 @@
-<p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=amitpatel&label=Profile%20views&color=0e75b6&style=flat" alt="amitpatel" /> 
+<h1 align="center">Hi 👋, I'm Amit Patel</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laptop+%26+PC+Technician;UI%2FUX+Designer;Tech+Problem+Solver;Self+Learner+🚀" />
+</h3>
+
+<p align="center">
+  <a href="https://amit-patel-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Amit Patel <p>💻 Developer | Editor | Designer<p> Follow me on GitHub</h1>
-
-<h4>I'm a Full-Stack Web Developer & Tech Enthusiast</h4>
-<h4>I started my tech journey from laptop repairing and now building complete digital solutions</h4>
-<h4>Passionate about Web Development, Tech Repair, and Problem Solving</h4>
-<h4>Learning everyday & Growing everyday 🚀</h4>
-
-- 🔧 Started laptop & PC repairing in **2020**
-- 🌐 Passionate Web Developer since **2018**
-- 🧠 I’m learning **PHP, Python, MongoDB, MySQL, Android Studio, Bootstrap**
-- 💬 Ask me about **Web Development, PC Repair, Tech Solutions**
-
----
-
-### 🛠️ Languages and Tools
-<p align="left"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif"/>
 </p>
 
 ---
 
-### 🔥 My Tech Journey  
+### 🚀 About Me
+- 👨‍💻 Started learning Web Development in **2018**  
+- 🔧 Began PC & Laptop repair work in **2020**  
+- ⚡ Full-Stack Web Developer | Designer | Editor  
+- 🧠 Currently learning **PHP, Python, MongoDB, MySQL, Android Studio, Bootstrap**  
+- 💬 Ask me about Web Development, PC Repair & Tech Solutions
+
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36"/>
+</p>
+
+---
+
+### 🔥 My Tech Journey
 <table>
 <thead>
 <tr>
@@ -54,16 +62,14 @@
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=amitpatel&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amitpatel&theme=light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitpatel&theme=light&hide_border=true&layout=compact)
-
----
-
-### 🌐 Connect with me:
+### 🌐 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/amit-patel-89736b287/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/amiitt_4084?igsh=dmg2Zms3b3ltaWE1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="mailto:amitpatel07029@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/amit-patel-89736b287/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/amiitt_4084?igsh=dmg2Zms3b3ltaWE1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
+<a href="mailto:amitpatel07029@gmail.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" width="40px"/>
+</a>
+ <a href="https://www.geeksforgeeks.org/user/amitpatel07/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="GFG"/></a>
+<a href="https://leetcode.com/u/AmitPatel4084/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/leetcode.svg" width="40px"/>
+</a>
