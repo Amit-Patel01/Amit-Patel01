@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=Amit-Patel01&label=Profile%20views&color=blue&style=for-the-badge)
 <h1 align="center">Hi 👋, I'm Amit Patel</h1>
 
 <h3 align="center">
