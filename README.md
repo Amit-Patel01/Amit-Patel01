@@ -17,11 +17,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Laptop+%26+PC+Technician;UI%2FUX+Designer;Problem+Solver;Building+Tech+Solutions+🚀" />
 </p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQ2b25kbG40aHlrYzV0Mmc1Nnk3eGpwbWxzMDU0OHZvbXMzcHdwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="420"/>
 </p>
-
 ---
 
 ## 🚀 About Me
