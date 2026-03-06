@@ -132,7 +132,7 @@ To grow AmitSolutionHub into a trusted tech platform combining development, desi
 <img src="https://skillicons.dev/icons?i=dart" />
 </a>
 
-</p>>
+</p>
 ---
 
 ## 💼 Expertise
