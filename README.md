@@ -75,9 +75,8 @@ To grow AmitSolutionHub into a trusted tech platform combining development, desi
 ## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,php,python,mysql,dotnet,bootstrap,git,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,php,python,mysql,dotnet,bootstrap,git,vscode,dart,flutter" />
 </p>
-
 ---
 
 ## 💼 Expertise
