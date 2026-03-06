@@ -169,5 +169,18 @@ To grow AmitSolutionHub into a trusted tech platform combining development, desi
 </p>
 
 ---
+## Coding  Platform
+<p align="left">
 
+<a href="https://leetcode.com/u/AmitPatel4084/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/amitpatel07">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
 ⭐ **"Building Solutions. Solving Problems. Creating Impact."**
