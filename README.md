@@ -124,17 +124,62 @@ To grow AmitSolutionHub into a trusted tech platform combining development, desi
 <img src="https://skillicons.dev/icons?i=git" />
 </a>
 
+
+<p align="left">
 <a href="https://code.visualstudio.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</a>
+
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+<a href="https://netlify.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=netlify" />
+</a>
+
+<a href="https://angular.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=angular" />
+</a>
+
+<a href="https://spring.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spring" />
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=photoshop" />
+</a>
+
+</p>
 
 <a href="https://dart.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=dart" />
 </a>
 
 </p>
+
 ---
 
+
+## 🎬 Creative Tools
+
+![Tools](https://skillicons.dev/icons?i=pr,ae)
 ## 💼 Expertise
 
 ### 💻 Development
