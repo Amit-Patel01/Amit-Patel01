@@ -195,6 +195,17 @@ To grow AmitSolutionHub into a trusted tech platform combining development, desi
   </a>
 
 
+### Coding  Platform
+
+ <a href="https://leetcode.com/u/AmitPatel4084/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="48" title="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/amitpatel07" target="_blank">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks" height="48" title="GeeksforGeeks"/>
+  </a>
+
+  </div>
+
 ## 💼 Expertise
 
 ### 💻 Development
@@ -212,15 +223,12 @@ To grow AmitSolutionHub into a trusted tech platform combining development, desi
 - System Optimization  
 - Network & WiFi Setup  
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amit-Patel01&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amit-Patel01&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Patel01&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 📫 Connect With Me
 
-<p align="left">
+<div align="center">
+
   <a href="https://www.linkedin.com/in/amit-patel-89736b287/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
@@ -230,21 +238,26 @@ To grow AmitSolutionHub into a trusted tech platform combining development, desi
   <a href="mailto:amitpatel07029@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-</p>
+
+</br>
+</div>
+
+
+
 
 ---
-## Coding  Platform
-<p align="left">
+</br>
 
-<a href="https://leetcode.com/u/AmitPatel4084/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/amitpatel07">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</p>
-
----
 ⭐ **"Building Solutions. Solving Problems. Creating Impact."**
+
+---
+
+<h3 align="center">🙏 Thank You for Reading About Me 🙏</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif" width="280"/>
+</p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile! Have a great day 😊</b>
+</p>
