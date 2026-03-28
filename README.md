@@ -74,112 +74,127 @@ To grow AmitSolutionHub into a trusted tech platform combining development, desi
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" />
-</a>
+### Development Tools
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js" />
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" />
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=express" />
-</a>
-
-<a href="https://www.mongodb.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</a>
-
-<a href="https://www.php.net" target="_blank">
-<img src="https://skillicons.dev/icons?i=php" />
-</a>
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
-
-<a href="https://www.mysql.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</a>
-
-<a href="https://dotnet.microsoft.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=dotnet" />
-</a>
-
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-</a>
-
-<a href="https://git-scm.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
+  <img src="./assets/visual-studio.png" height="48" width="48" title="VS Code"/>
+  <img src="./assets/500px-Android_Studio_icon_(2023).svg.png" height="48" width="48" title="Android Studio"/>
+  <img src="https://cdn.simpleicons.org/mongodb" height="48" title="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/git" height="48" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github" height="48" title="GitHub"/>
 
 
-<p align="left">
-<a href="https://code.visualstudio.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</a>
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cs,html,java,js,php,ts,python,c++" />
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" />
-</a>
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,django,express,fastapi,flask,nextjs,nodejs,react,spring,tailwind,threejs,dotnet,MEAN" />
 
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=firebase" />
-</a>
+### Tools & DevOps
 
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-
-<a href="https://netlify.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=netlify" />
-</a>
-
-<a href="https://angular.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=angular" />
-</a>
-
-<a href="https://spring.io/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=spring" />
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=photoshop" />
-</a>
-
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=socketio" />
+  </a>
+  <a href="https://www.thunderclient.com/" target="_blank">
+    <img src="./assets/pngaaa.com-6730443.png" height="48" title="Thunder Client"/>
+  </a>
 </p>
 
-<a href="https://dart.dev" target="_blank">
-<img src="https://skillicons.dev/icons?i=dart" />
-</a>
-
-</p>
-
----
+### Creative & Other
 
 
-## 🎬 Creative Tools
+  <a href="https://www.cisco.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40"/>
+  </a>
+  <a href="https://www.amd.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/amd/ED1C24" width="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ps" height="48"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=lr" height="48"/>
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pr" height="48"/>
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ae" height="48"/>
+  </a>
+  <a href="https://www.adobe.com/express/" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  </a>
 
-![Tools](https://skillicons.dev/icons?i=pr,ae)
+
+### PC Technical Services Tools
+
+  <a href="https://www.microsoft.com/software-download/windows10" target="_blank">
+    <img src="./assets/b40c7b46a33e254b38456a827111467151b248ad8b16eaed350f33a931d1e32e100.jpg" height="48"/>
+  </a>
+  <a href="https://www.cpuid.com/softwares/cpu-z.html" target="_blank">
+    <img src="./assets/CPU-Z_icon.png" height="48"/>
+  </a>
+  <a href="https://www.minitool.com/partition-manager/" target="_blank">
+    <img src="./assets/Minitool-partition-wizard-logo.png" height="48"/>
+  </a>
+  <a href="https://rufus.ie/" target="_blank">
+    <img src="./assets/Rufus-logo.png" height="48"/>
+  </a>
+  <a href="https://www.hdsentinel.com/" target="_blank">
+    <img src="./assets/hard-disk-sentinel-logo.png" height="48"/>
+  </a>
+  <a href="https://etcher.balena.io/" target="_blank">
+    <img src="./assets/Etcher-icon.png" height="48"/>
+  </a>
+  <a href="https://www.driverpack.io/" target="_blank">
+    <img src="./assets/43a8e4b10837ae2f55595d88272bad6550d6da77329ccbecbb6f65457168aa4a100.jpg" height="48"/>
+  </a>
+
+
+### OS
+
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://www.microsoft.com/windows/windows-11" target="_blank">
+    <img src="./assets/03cf167836a8cf66b80373ab905f5888.png" height="48"/>
+  </a>
+  <a href="https://www.google.com/chromebook/" target="_blank">
+    <img src="./assets/images.jpg" height="48"/>
+  </a>
+  <a href="https://primeos.in/" target="_blank">
+    <img src="./assets/primeos-logo-png-2.png" height="48"/>
+  </a>
+
+
 ## 💼 Expertise
 
 ### 💻 Development
