@@ -118,7 +118,7 @@ To grow AmitSolutionHub into a trusted tech platform combining development, desi
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
   <a href="https://socket.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=socketio" />
+    <img src="./assets/socket_io_logo_icon_144874.png" height="48" title="Socket.IO"/>
   </a>
   <a href="https://www.thunderclient.com/" target="_blank">
     <img src="./assets/pngaaa.com-6730443.png" height="48" title="Thunder Client"/>
