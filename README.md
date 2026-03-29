@@ -9,7 +9,7 @@
   <a href="https://www.amitsolutionhub.com/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20AmitSolutionHub-Live%20Website-000000?style=for-the-badge" />
   </a>
-  <a href="https://amit-patel-portfolio.netlify.app/" target="_blank">
+  <a href="https://portfolio.amitsolutionhub.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge" />
   </a>
 </p>
